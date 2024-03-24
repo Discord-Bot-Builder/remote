@@ -8,7 +8,7 @@
 
 ### **Hey Builders!**
 
-This update is about a substantial user interface change, the result of weeks of constant work and research. You will notice that there is a lot of work on the small details.
+This update is about a substantial user interface change, the result of weeks of constant work and research. You will notice that there is a lot of work on the small details.<br>
 Initially, I thought I wouldn't need to make any more changes to the user interface for a while, but, in fact, there were many things to implement yet and more in the future.
 <br>
 <br>
@@ -28,12 +28,12 @@ Now the user is less dependent on the application menu, making it easier to use 
 
 ![Image](https://clan.akamai.steamstatic.com/images/35455752/123db6dda786471abe6b2568e1b773430cbe71ac.gif)
 
-## **New Redesign**
+## **Workspace Tabs & Multiproject**
 
-**A more intuitive, flexible and robust user interface**  
+**Be more multitasking**  
 <br>
 
-Now the user is less dependent on the application menu, making it easier to use and more versatile for adding new features, such as the new _App Settings_, located in the bottom left corner. There is more to discover...
+Open more workspace and project in the same window and organize them however you want. You need to enable "Workspace Tabs" in the _App Settings_.
 <br>
 <br>
 
@@ -71,3 +71,10 @@ Now the user is less dependent on the application menu, making it easier to use 
 -   Fixed "Open Recent" menu
 -   Fixed a rare case where some Block ports could not be connected
 -   Fixed many bugs related to wire connection
+    <br>
+    <br>
+    <br>
+
+_MrGold - DBB Developer_<br>
+[DBB Discord Server](https://discord.gg/PAzxTDw)<br>
+[Unofficial DBB Website](https://dbb.software/)
