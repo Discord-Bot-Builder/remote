@@ -105,8 +105,7 @@ Drag anything to the edges of the workspace window to move the workspace, making
 
 <details>
     <summary>Show Details</summary>
-    <ul>
-        <li>await_message_reactions
+    <ul><li>await_message_reactions
         <li>await_messages
         <li>bot_error_event
         <li>bot_typing
@@ -150,8 +149,7 @@ Drag anything to the edges of the workspace window to move the workspace, making
         <li>send_message
         <li>set_bot_activity
         <li>transform_value
-        <li>write_file
-    </ul>
+        <li>write_file</ul>
 </details>
     <br>
     <br>
