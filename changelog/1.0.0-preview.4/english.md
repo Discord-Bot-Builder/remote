@@ -61,9 +61,9 @@ Drag anything to the edges of the workspace window to move the workspace, making
 ## **Changelog**
 
 -   Redesigned UI
-    -   Added Home
-    -   Changed Project Editor's layout
-    -   Added App Settings
+    -   Added Home
+    -   Changed Project Editor's layout
+    -   Added App Settings
 -   Added multiproject support
 -   Added Zoom to Cursor feature
 -   Added "Workspace Tabs" setting
@@ -106,51 +106,51 @@ Drag anything to the edges of the workspace window to move the workspace, making
 <details>
     <summary>Show Details</summary>
     <ul>
-        <li>await_message_reactions</li>
-        <li>await_messages</li>
-        <li>bot_error_event</li>
-        <li>bot_typing</li>
-        <li>change_bot_avatar</li>
-        <li>change_bot_prefix</li>
-        <li>check_permissions</li>
-        <li>check_value_type</li>
-        <li>clear_data</li>
-        <li>clone_channel</li>
-        <li>command_event</li>
-        <li>control_data</li>
-        <li>create_role</li>
-        <li>delete_data</li>
-        <li>discord_audio_player_dependency</li>
-        <li>edit_embed_message</li>
-        <li>edit_role</li>
-        <li>emitter</li>
-        <li>find_channel</li>
-        <li>generate_random_number</li>
-        <li>get_audio_info</li>
-        <li>get_bot_info</li>
-        <li>get_data</li>
-        <li>get_date_info</li>
-        <li>get_list_item_position</li>
-        <li>get_member_info</li>
-        <li>get_message_arguments</li>
-        <li>get_message_embed_info</li>
-        <li>get_message_info</li>
-        <li>get_presence_info</li>
-        <li>get_role_info</li>
-        <li>get_server_info</li>
-        <li>get_text_channel_info</li>
-        <li>get_user_info</li>
-        <li>join_voice_channel</li>
-        <li>leave_voice_channel</li>
-        <li>member_join_server_event</li>
-        <li>message_event</li>
-        <li>read_file</li>
-        <li>receiver</li>
-        <li>replace_text</li>
-        <li>send_message</li>
-        <li>set_bot_activity</li>
-        <li>transform_value</li>
-        <li>write_file</li>
+        <li>await_message_reactions
+        <li>await_messages
+        <li>bot_error_event
+        <li>bot_typing
+        <li>change_bot_avatar
+        <li>change_bot_prefix
+        <li>check_permissions
+        <li>check_value_type
+        <li>clear_data
+        <li>clone_channel
+        <li>command_event
+        <li>control_data
+        <li>create_role
+        <li>delete_data
+        <li>discord_audio_player_dependency
+        <li>edit_embed_message
+        <li>edit_role
+        <li>emitter
+        <li>find_channel
+        <li>generate_random_number
+        <li>get_audio_info
+        <li>get_bot_info
+        <li>get_data
+        <li>get_date_info
+        <li>get_list_item_position
+        <li>get_member_info
+        <li>get_message_arguments
+        <li>get_message_embed_info
+        <li>get_message_info
+        <li>get_presence_info
+        <li>get_role_info
+        <li>get_server_info
+        <li>get_text_channel_info
+        <li>get_user_info
+        <li>join_voice_channel
+        <li>leave_voice_channel
+        <li>member_join_server_event
+        <li>message_event
+        <li>read_file
+        <li>receiver
+        <li>replace_text
+        <li>send_message
+        <li>set_bot_activity
+        <li>transform_value
+        <li>write_file
     </ul>
 </details>
     <br>
