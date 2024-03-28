@@ -92,7 +92,7 @@ Drag anything to the edges of the workspace window to move the workspace, making
 -   Improved Light Mode colors
 -   Added back "DBB Community Documentation" to Help menu
 -   Added the HTML element name to "CSS Selector" developer feature
--   Added [i]Ctrl+C[/i] to "CSS Selector" developer feature, to copy the current CSS Selector
+-   Added _Ctrl+C_ to "CSS Selector" developer feature, to copy the current CSS Selector
 -   Added back double-click on Block header to rename it (if enabled)
 -   Fixed red glow missing on unknown blocks when they are (over)simplified
 -   Added French translation by slaycer
@@ -102,54 +102,56 @@ Drag anything to the edges of the workspace window to move the workspace, making
 -   Fixed many bugs
 
 ### Blocks Changed or Added
+
 <details>
     <summary>Show Details</summary>
-
-- await_message_reactions
-- await_messages
-- bot_error_event
-- bot_typing
-- change_bot_avatar
-- change_bot_prefix
-- check_permissions
-- check_value_type
-- clear_data
-- clone_channel
-- command_event
-- control_data
-- create_role
-- delete_data
-- discord_audio_player_dependency
-- edit_embed_message
-- edit_role
-- emitter
-- find_channel
-- generate_random_number
-- get_audio_info
-- get_bot_info
-- get_data
-- get_date_info
-- get_list_item_position
-- get_member_info
-- get_message_arguments
-- get_message_embed_info
-- get_message_info
-- get_presence_info
-- get_role_info
-- get_server_info
-- get_text_channel_info
-- get_user_info
-- join_voice_channel
-- leave_voice_channel
-- member_join_server_event
-- message_event
-- read_file
-- receiver
-- replace_text
-- send_message
-- set_bot_activity
-- transform_value
-- write_file
+    <ul>
+        <li>await_message_reactions</li>
+        <li>await_messages</li>
+        <li>bot_error_event</li>
+        <li>bot_typing</li>
+        <li>change_bot_avatar</li>
+        <li>change_bot_prefix</li>
+        <li>check_permissions</li>
+        <li>check_value_type</li>
+        <li>clear_data</li>
+        <li>clone_channel</li>
+        <li>command_event</li>
+        <li>control_data</li>
+        <li>create_role</li>
+        <li>delete_data</li>
+        <li>discord_audio_player_dependency</li>
+        <li>edit_embed_message</li>
+        <li>edit_role</li>
+        <li>emitter</li>
+        <li>find_channel</li>
+        <li>generate_random_number</li>
+        <li>get_audio_info</li>
+        <li>get_bot_info</li>
+        <li>get_data</li>
+        <li>get_date_info</li>
+        <li>get_list_item_position</li>
+        <li>get_member_info</li>
+        <li>get_message_arguments</li>
+        <li>get_message_embed_info</li>
+        <li>get_message_info</li>
+        <li>get_presence_info</li>
+        <li>get_role_info</li>
+        <li>get_server_info</li>
+        <li>get_text_channel_info</li>
+        <li>get_user_info</li>
+        <li>join_voice_channel</li>
+        <li>leave_voice_channel</li>
+        <li>member_join_server_event</li>
+        <li>message_event</li>
+        <li>read_file</li>
+        <li>receiver</li>
+        <li>replace_text</li>
+        <li>send_message</li>
+        <li>set_bot_activity</li>
+        <li>transform_value</li>
+        <li>write_file</li>
+    </ul>
 </details>
     <br>
     <br>
