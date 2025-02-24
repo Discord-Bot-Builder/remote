@@ -105,21 +105,21 @@ Instead of always right-clicking to open the Item Browser, you can also drag a w
 ## **Changelog**
 
 -   Added DBB Bot v2.0
--   Slightly better overall performance
-    -   Added new mechanics (see above)
-    -   Added Required Input Warning
-    -   Beautified console messages
-    -   Added command/interaction-related blocks
-    -   Fixed and improved audio-related blocks
-    -   Added _executedFrom_ property to block's _cache_
-    -   Added new tools for block developers:
-        -   _setDependency(dependencyId: string, blockName: string, data: unknown)_
-        -   _eraseConsole()_
-        -   _runNextBlock(outputId: string, cache: BlockCache, multiPortIndex?: number)_
-        -   _GetInputValueAsync(inputId: string, cache: BlockCache, explicitValue?: boolean, defaultValue?: unknown)_
-        -   _isInputConnected(inputId: string, cache: BlockCache, multiPortIndex?: number)_
-        -   _isOutputConnected(outputId: string, cache: BlockCache, multiPortIndex?: number)_
-        -   _findWorkspaces(searchType: "id" | "title" | "description", searchValue: string)_
+    -   Slightly better overall performance
+    -   Added new mechanics (see above)
+    -   Added Required Input Warning
+    -   Beautified console messages
+    -   Added command/interaction-related blocks
+    -   Fixed and improved audio-related blocks
+    -   Added _executedFrom_ property to block's _cache_
+    -   Added new tools for block developers:
+        -   _setDependency(dependencyId: string, blockName: string, data: unknown)_
+        -   _eraseConsole()_
+        -   _runNextBlock(outputId: string, cache: BlockCache, multiPortIndex?: number)_
+        -   _GetInputValueAsync(inputId: string, cache: BlockCache, explicitValue?: boolean, defaultValue?: unknown)_
+        -   _isInputConnected(inputId: string, cache: BlockCache, multiPortIndex?: number)_
+        -   _isOutputConnected(outputId: string, cache: BlockCache, multiPortIndex?: number)_
+        -   _findWorkspaces(searchType: "id" | "title" | "description", searchValue: string)_
 -   Added _MULTISELECT_ and _TEXT_LINE_ option types for blocks
 -   Added the ability to add a description to each option in a _SELECT_ block option type
 -   Forced _bot.js_ file being updated on the first bot run
