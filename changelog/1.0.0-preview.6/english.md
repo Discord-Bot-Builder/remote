@@ -106,6 +106,7 @@ For Block Developers: check out [dynamic_block_test.js](https://raw.githubuserco
 -   Note's title size no longer increases when zooming out
 -   Removed persistent "move" cursor icon from workspace editor
 -   Added Ukrainian language (incomplete)
+-   Improved CSS Selector, such as showing CSS Custom Properties and HTML Data Attributes
 
 <br>
 <br>
