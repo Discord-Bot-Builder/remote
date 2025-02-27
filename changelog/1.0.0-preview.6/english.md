@@ -1,6 +1,6 @@
 # Utility Update
 
-#### 1.0.0-preview.6 • 2025-02-26
+#### 1.0.0-preview.6 • 2025-02-27
 
 ---
 
@@ -107,6 +107,7 @@ For Block Developers: check out [dynamic_block_test.js](https://raw.githubuserco
 -   Removed persistent "move" cursor icon from workspace editor
 -   Added Ukrainian language (incomplete)
 -   Improved CSS Selector, such as showing CSS Custom Properties and HTML Data Attributes
+-   Added "dbb://" custom protocol support for deep linking into DBB
 
 <br>
 <br>
